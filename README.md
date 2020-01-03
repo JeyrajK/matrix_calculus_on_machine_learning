@@ -1,4 +1,4 @@
-# matrix_calculus_on_machine_learning
+# Matrix calculus on machine learning
 
 This repository contains fully how matrix calculus helps in machine learning.
 
